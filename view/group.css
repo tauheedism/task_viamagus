@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/840894294/photo/three-hot-air-balloons-lifting-up-into-the-sky.jpg?b=1&s=170667a&w=0&k=20&c=aFm35JSgpkATzC-Of7dIvEat0m3ZnV-RTAJMGyv-FSY=);
+    background-size: cover;
+}
+
+h1{
+   color:#dfb7b7;
+   text-align: center;
+}
+
+h2{
+   color: rgb(7, 56, 56);
+   text-align: center;
+}
+
+h6{
+   text-align:center;
+   margin: 30px 150px;
+}
+
+form{
+   text-align: center;
+}
+
+input{
+   background:none ;
+   width: 200px;
+   height: 19px;
+   color: rgb(3, 14, 24);
+}
+
+#group-message{
+  color: rgb(20, 14, 5);
+  margin: 30px 10px;
+  border: 2px solid rgb(187, 36, 61);
+}
+
+#message{
+   color:rgb(34, 23, 8);
+   border: 5px solid rgb(118, 155, 49);
+   margin: 30px 10px;
+}
+
+#showAddUser
+{
+   color: rgb(54, 37, 16);
+   border: 5px solid rgb(201, 94, 201);
+   margin: 30px 10px;
+}
